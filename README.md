@@ -64,6 +64,4 @@ __LogSuccessfulConnections_public_cis__ |"1"| CIS value.
 
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
